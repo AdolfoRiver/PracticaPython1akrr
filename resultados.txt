@@ -1,0 +1,6 @@
+Ana: [85, 90, 78], Promedio: 84.33
+Luis: [70, 75, 72], Promedio: 72.33
+Sofía: [92, 88, 94], Promedio: 91.33
+Carlos: [60, 65, 70], Promedio: 65.00
+
+Estudiante con mejor promedio: Sofía (91.33)
